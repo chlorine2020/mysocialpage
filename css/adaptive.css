@@ -7,7 +7,14 @@
 /* стили */
 	.port {
 		max-width: 300px;
-		margin: 20px;
+		margin: 30px;
+	}
+
+	
+
+	.header_photo {
+		margin-left: 50px;
+		padding-top: -30px;
 	}
 
 	.header_text {
@@ -17,6 +24,12 @@
 	.link {
 		margin-bottom: 70px;
 	}
+
+	.h_foto {
+	margin-bottom: 20px;
+	margin-top: 20px;
+	font-size: 25px;
+}
 }
 
 /* Smartphones (вертикальная) ----------- */
