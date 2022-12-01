@@ -7,6 +7,7 @@
 
 * {
 	font-family: 'Alegreya Sans SC', sans-serif;
+	font-family: 'Marck Script', cursive;
 	font-family: 'Mulish', sans-serif;
 }
 
@@ -29,9 +30,21 @@
 }
 
 .header_photo {
-	width: 200px;
-	height: 250px;
+	max-width: 230px;
 	border-radius: 200px;
+}
+
+
+.c_foto {
+	max-width: 800px;
+}
+
+.h_foto {
+	float: right;
+	margin-top: 100px;
+	max-width: 500px;
+	font-family: 'Marck Script', cursive;
+	font-size: 25px;
 }
 
 .link {
